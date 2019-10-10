@@ -1,0 +1,19 @@
+{
+    "name": "massfice/auta",
+    "authors": [
+        {
+            "name": "Massfice",
+            "email": "adrian.marian.tomasz.larysz@gmail.com"
+        }
+    ],
+	"repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/Massfice/car-tester.git"
+      }
+    ],
+	
+    "require": {
+		"massfice/car-tester": "dev-master"
+	}
+}
